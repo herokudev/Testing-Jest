@@ -1,0 +1,24 @@
+{
+  "name": "testing-jest",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herokudev/Testing-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herokudev/Testing-Jest/issues"
+  },
+  "homepage": "https://github.com/herokudev/Testing-Jest#readme",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
