@@ -37,5 +37,5 @@ describe('Divide method test', () => {
 
     test('divideTask2', () => {
         expect(calculator.divide(6, 3)).toBe(2)
-    });
+    });q
 })
